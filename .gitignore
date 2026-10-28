@@ -27,3 +27,6 @@ website/out/
 # OS
 .DS_Store
 Thumbs.db
+
+# NDK build intermediates
+engine-apk/app/.cxx/

@@ -22,8 +22,10 @@ real-game import battery runner and the gameplay screenshot driver used to
 produce the screenshots on the website.
 
 Licenses: app code is yours to use freely. Godot is MIT (Copyright Godot
-Engine contributors). Material Symbols are Apache-2.0 (Google). The keystore
-is NOT included — generate your own (see engine-apk/keystore.README).
+Engine contributors). Material Symbols are Apache-2.0 (Google). The release
+keystore ships at engine-apk/keystore/nativemorph.jks, so
+`gradle assembleRelease` works out of the box and rebuilds install as
+updates of this APK.
 
 NOTE: `engine-apk/app/src/main/jniLibs/arm64-v8a/libgodot3x_droid.so` (the
 relocated 3.6.2 runtime) is NOT shipped in this zip — run

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0B0E14</color>
+    <color name="bg_elev">#141926</color>
+    <color name="bg_card">#1A2130</color>
+    <color name="stroke">#2A3244</color>
+    <color name="accent">#6C4DFF</color>
+    <color name="accent_soft">#9C86FF</color>
+    <color name="text_primary">#EDF0F7</color>
+    <color name="text_secondary">#9AA3B5</color>
+    <color name="ok">#3DDC97</color>
+    <color name="warn">#FFB454</color>
+    <color name="err">#FF5C77</color>
+    <color name="ic_launcher_bg">#6C4DFF</color>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NativeMorph Engine</string>
+    <string name="games_title">My Games</string>
+    <string name="import_game">Import game folder</string>
+    <string name="no_games">No games yet.\n\nChoose a game FOLDER: the engine data inside (.pck, side-by-side .exe + .pck, self-contained .exe, .zip, Godot .apk or .obb) is detected automatically. Godot 3.x and 4.x are both supported.</string>
+    <string name="settings">Settings</string>
+    <string name="play">Play</string>
+    <string name="delete">Delete</string>
+    <string name="report">Optimization report</string>
+</resources>

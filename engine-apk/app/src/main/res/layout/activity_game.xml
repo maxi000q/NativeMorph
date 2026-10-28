@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Game host layout. The FrameLayout with id/godot_fragment_container is the
+  slot GodotActivity.onCreate replaces with the engine's GodotFragment
+  (same id the upstream godot_app_layout uses, merged from the AAR).
+  ControlOverlay draws the floating touch UI above ANY running game.
+-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black">
+
+    <FrameLayout
+        android:id="@id/godot_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.nativemorph.engine.overlay.ControlOverlay
+        android:id="@+id/control_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</FrameLayout>

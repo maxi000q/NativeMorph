@@ -1,0 +1,29 @@
+# Build outputs
+engine-apk/app/build/
+engine-apk/godot3-lib/build/
+engine-apk/build/
+engine-apk/.gradle/
+engine-apk/libs/
+engine-apk/tools/dl/
+build/
+.gradle/
+local.properties
+*.apk
+*.aab
+
+# Downloaded third-party binaries (regenerate with engine-apk/get-dependencies.sh)
+engine-apk/app/src/main/jniLibs/arm64-v8a/libgodot3x_droid.so
+
+# Website
+website/node_modules/
+website/.next/
+website/out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

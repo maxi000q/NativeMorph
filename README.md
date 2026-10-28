@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 About
+##  About
 
 **NativeMorph** is a free, open Android app that lets you run **your own Godot
 games** — built for PC — natively on your phone or tablet. It is *not* an
@@ -37,7 +37,7 @@ device, and your game files never leave it.
 
 ---
 
-## ⚠️ Some games will NOT work
+##  Some games will NOT work
 
 NativeMorph is an independent hobby project, **not** a commercial product, and
 game compatibility is **not guaranteed**. Please read this before you try it:
@@ -60,7 +60,7 @@ game compatibility is **not guaranteed**. Please read this before you try it:
 
 ---
 
-## ⚖️ Legal disclaimer — please read
+##  Legal disclaimer — please read
 
 > **This must be said clearly and loudly:**
 
@@ -88,7 +88,7 @@ game compatibility is **not guaranteed**. Please read this before you try it:
 
 ---
 
-## 💬 Discord
+##  Discord
 
 Questions, compatibility reports, updates and help:
 
